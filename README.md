@@ -1,6 +1,6 @@
 
-Computer Architecture
-=>PROBLEM STATEMENT
+Computer Architecture\
+=>PROBLEM STATEMENT\
 Let us define our customized floating point number system (called as NFP => New Floating-Point number) in 32 bits as follows:
 1) Sign bit: most significant bit (0 => the number is positive, 1=> the number is negative)
 2) 2’compliment exponent: next 12 bits
