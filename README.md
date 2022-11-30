@@ -8,7 +8,7 @@ Let us define our customized floating point number system (called as NFP => New 
 All these floating-point numbers are in normalized format.<br />
 Write Assembly Language program to Add and Multiply two LPFP numbers. Also write additional code / data to test these functions.<br />
 </br>
-Note:\
+Note:<br />
 a) Implementation must be modular.<br />
 b) You need to write nfpAdd and nfpMultiply as two functions.<br />
 c) Data must be taken from memory. And After computation the result has to be put into memory.<br />
